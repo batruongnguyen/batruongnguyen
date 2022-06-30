@@ -1,5 +1,5 @@
 # 💫About Me :
-Mình hiện đang học tại trường Đại học Kinh Tế Đà Nẵng, chuyên ngành Quản Trị Hệ Thống Thông Tin và mình đến từ Đà Nẵng
+Hello everyone, I'm from Da Nang - Viet Nam. From now, I starting as a Salesforce Developer
 
 
 
