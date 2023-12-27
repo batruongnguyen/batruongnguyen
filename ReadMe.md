@@ -1,6 +1,8 @@
 # 💫About Me :
-Hello everyone, I'm from Da Nang - Viet Nam. From now, I starting as a Salesforce Developer
-
+🌏 Location: Viet Nam
+👨‍💻 Position: Salesforce Developer
+📅 Experience: Developing with Salesforce since June 2022
+🚀 Passion: Enthusiastic about contributing to open-source projects within the Salesforce ecosystem.
 
 
 ## 🌐Socials
