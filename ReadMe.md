@@ -1,8 +1,8 @@
 # 💫About Me :
-🌏 Location: Viet Nam
-👨‍💻 Position: Salesforce Developer
-📅 Experience: Developing with Salesforce since June 2022
-🚀 Passion: Enthusiastic about contributing to open-source projects within the Salesforce ecosystem.
+🌏 **Location:** Viet Nam  
+👨‍💻 **Position:** Salesforce Developer  
+📅 **Experience:** Developing with Salesforce since June 2022  
+🚀 **Passion:** Enthusiastic about contributing to open-source projects within the Salesforce ecosystem.
 
 
 ## 🌐Socials
